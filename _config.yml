@@ -10,7 +10,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  http://nquirk.github.io
+url:  “http://nquirk.github.io”
 baseurl: /site
 last_updated:
 # -----------------------------------------------------------------------------
