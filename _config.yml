@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Your Name
-email: you@example.com
+name: Nicholas Quirk
+email: nquirk9@gmail.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -10,25 +10,24 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
-
+url:  http://nquirk.github.io
+baseurl: /site
+last_updated:
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # put your github username
-twitter_username: # put your twitter username
-linkedin_username: # put your linkedin username
-scholar_authorid: # put your google scholar author id
+github_username: nquirk
+twitter_username: 
+linkedin_username: 
+scholar_authorid: 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Reach me via email!
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: al-folio
-blog_description: a simple whitespace theme for academics
+blog_name: site
+blog_description: a page describing my academic activities
 
 # Pagination
 paginate: 4
