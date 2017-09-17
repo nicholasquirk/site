@@ -24,8 +24,8 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: site
-blog_description: a page describing my academic activities
+blog_name: Ideas
+blog_description: I’m working on getting some!
 
 # Pagination
 paginate: 4
