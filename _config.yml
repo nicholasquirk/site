@@ -62,7 +62,7 @@ collections:
     permalink: /projects/:path/
   publications:
     output: true
-    permalink: /publications/:path/
+    permalink: /bibliography/:path/
 
 news_limit: 5
 	
