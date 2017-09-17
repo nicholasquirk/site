@@ -60,8 +60,12 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
 
 news_limit: 5
+	
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
