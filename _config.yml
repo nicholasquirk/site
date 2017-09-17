@@ -11,7 +11,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  http://nquirk.github.io
-baseurl: /site
+baseurl: /site/
 last_updated:
 # -----------------------------------------------------------------------------
 # Social integration
