@@ -6,7 +6,7 @@ description: Ph.D. Candidate in Physics at Princeton University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   address: >
     <p>4-15 Jadwin Hall</p>
     <p>Princeton University</p>
