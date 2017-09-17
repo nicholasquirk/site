@@ -7,7 +7,7 @@ description: Ph.D. Candidate in Physics at Princeton University
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+  address: 
     <p>4-15 Jadwin Hall</p>
     <p>Princeton University</p>
     <p>Princeton, NJ 08540</p>
@@ -15,6 +15,7 @@ profile:
 news: true
 social: true
 ---
-Pizza is amazing! I like to party
+Working on passing preliminary exams and learning about condensed matter!
+(And making this website)!
 
 
