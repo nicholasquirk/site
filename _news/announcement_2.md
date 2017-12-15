@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2017-06-05
+date: 2017-09-10
 inline: true
 ---
 
-Worked in the fiber laser group of of BAE Systems (Technological Solutions) in Merrimack, NH.
+Started Ph.D in physics at Princeton University.
