@@ -13,7 +13,7 @@ Almeda sux2 a rock/rnb group I formed with three of my friends at Georgetown in 
 Bossa Video!
 
 
-{% include youtubePlayer.html %}
+{% include youtubePlayer.html id=page.vJNXpgDPI_o&t=234s %}
 
 
 
