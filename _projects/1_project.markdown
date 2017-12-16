@@ -12,13 +12,7 @@ Almeda is a rock/rnb group I formed with three of my friends at Georgetown in wh
 
 Bossa Video!
 
-{% include youtubePlayer.html id=“kz8dsHj1LNM” %}
+{% include youtubePlayer.html id=EKyirtVHsK0 %}
 
 
 
-
-<video poster="{{ site.baseurl }}/assets/img/almedaboss.png” width="618" height="347" controls preload> 
-    <source src="{{ site.baseurl }}/assets/vid/bossa.mp4" media="only screen and (min-device-width: 568px)"></source> 
-    <source src="{{ site.baseurl }}/assets/vid/bossa.mp4" media="only screen and (max-device-width: 568px)"></source> 
-    <source src="{{ site.baseurl }}/assets/vid/bossa.mp4"></source> 
-</video>
