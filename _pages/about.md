@@ -15,7 +15,7 @@ profile:
 news: true
 social: true
 ---
-I am first-year physics Ph.D. candidate at Princeton focusing on experimental research in condensed matter. Currently, I am studying hard for the Princeton preliminary exams which are coming in January. 
+Hi, I'm Nick, a first-year physics Ph.D. candidate at Princeton focusing on experimental research in condensed matter. Currently, I am studying hard for the Princeton preliminary exams which are coming in January. 
 
 I did my undergrad at Georgetown University where I worked with Prof. Paola Barbara on the development of high-sensitivity broadband terahertz detectors using graphene and molybdenum disulfide. I also played electric bass in an award-winning rock/rnb band called Almeda), tutored and mentored underclassmen physics students, and played double bass in the symphony orchestra.
 
