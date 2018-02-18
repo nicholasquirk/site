@@ -15,17 +15,16 @@ last_updated: # never
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: nquirk
-twitter_username: #
-linkedin_username: #
-scholar_authorid: #
-contact_note: >
-  Reach me via email!
+linkedin_username: nicholas-quirk-581bb4107
+scholar_authorid: F4uD8KcAAAAJ&hl
+contact_note:
+
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Ideas
-blog_description: I’m working on getting some!
+blog_name: Ideas for the Future
+blog_description: Things to consider now and act on later
 
 # Pagination
 paginate: 4
