@@ -13,7 +13,7 @@ I'd like to take it up again someday!
 Here's a really old video!
 {% include youtubePlayer1.html %}
 
-Here's a slightly newer video from an open mic in DC:
+Here's a slightly newer video from an open mic in D.C.:
 {% include youtubePlayer4.html %}
 
 '

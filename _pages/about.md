@@ -17,4 +17,4 @@ I am a first-year Ph.D. candidate in the Department of Physics at Princeton Univ
 
 Apart from physics research I also enjoy doing Taekwondo, playing the double bass and the electric bass guitar, writing songs, skiing and being outdoors, and weaving comedy into every possible appropriate aspect of my life. I am from Plaistow, NH and thrived at the public high school there, which has an extraordinary music program.
 
-My goal is contribute to the exciting middle half of the 21st century through scientific achievement, academic inquiry, and compassion.
+My goal is to in my lifetime contribute to the exciting middle half of the 21st century through scientific achievement, academic inquiry, and compassion.

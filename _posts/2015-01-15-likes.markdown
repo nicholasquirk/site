@@ -1,0 +1,45 @@
+---
+layout: post
+title:  Needless S'n'T'
+date:   2013
+description: These are a few of my favorite things
+---
+
+
+#### Favorite bands:
+<ul>
+
+<li>Esperanza Spalding</li>
+<li>Hiatus Kaiyote</li>
+<li>Daniel Rossen</li>
+<li>Judee Sill</li>
+<li>Stevie Wonder</li>
+<li>Lianne La Havas</li>
+<li>Sarah Vaughan</li>
+
+
+<li>Jay Som</li>
+<li>Modest Mouse</li>
+<li>Kendrick Lamar</li>
+<li>Red Hot Chili Peppers</li>
+<li>Deerhoof</li>
+<li>King Krule</li>
+<li>Jeff Buckley</li>
+<li>Laura Stevenson</li>
+<li>Robert Glasper</li>
+<li>Thundercat</li>
+<li>Kamasi Washington</li>
+<li>Pile</li>
+<li>Anderson .Paak</li>
+<li>Weezer</li>
+<li>Mac Demarco</li>
+<li>Beach Boys</li>
+<li>The Brave Little Abacus</li>
+</ul>
+
+
+<blockquote>
+    Etre adulte, c'est être seul.
+    —Jean Rostand
+</blockquote>
+

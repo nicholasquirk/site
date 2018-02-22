@@ -4,6 +4,8 @@ title: To Love Life is to Love Others
 date:   2014-01-30
 description: 
 ---
+One of my favorite authors is Endo Shusaku, the so-called Graham Greene of Japan. Although often called a Catholic writer, Endo himself was always quick to point out that he was not a theologian and that although his writings may have been inspired by his Catholic upbringing, they were guided by humanistic ideals, not dogma. His most famous work is called "Silence," and Scorcese recently made a beautiful (but imo misguided) film adaptation of it. This is an essay I wrote about compassion in the context of three of Endo's shorter, lesser-known works.'
+
 To Love Life is to Love Others
 
 
