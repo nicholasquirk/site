@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Needless S'n'T'
-date:   2013
+date:   2013-01-01
 description: These are a few of my favorite things
 ---
 
