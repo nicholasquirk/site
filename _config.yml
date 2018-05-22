@@ -23,8 +23,8 @@ contact_note:
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Ideas for the Future
-blog_description: Things to consider now and act on later
+blog_name: Blog on the way
+blog_description: Let me fuel my ego a bit more first
 
 # Pagination
 paginate: 4
